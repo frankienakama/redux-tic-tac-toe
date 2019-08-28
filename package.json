@@ -1,6 +1,7 @@
 {
   "name": "redux-tic-tac-toe",
   "version": "0.1.0",
+  "author": "Sara Frandsen <sara.frandsen@gmail.com>",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
